@@ -1,0 +1,15 @@
+CREATE DATABASE Alumnos /**** Creamos la BASE DE DATOS ****/
+
+USE Alumnos;
+
+CREATE TABLE Datos_Personales (
+	Id_num INTEGER IDENTITY(1, 1), /**** Empezando en 1 e incrementando la numeración en una unidad ****/
+	Nombre VARCHAR (255) NOT NULL, /**** Máximo 255 valores alfanuméricos y no se aceptan valores NULL ****/
+	Correo VARCHAR (255),
+	Direccion VARCHAR (255),
+	Ciudad VARCHAR (255) NOT NULL,
+	Telefono VARCHAR (15),
+	Genero CHAR(1), /**** Longitud fija de valores alfanuméricos (sólo pueden contener 1 caracter) ****/
+	Estado_Civil VARCHAR (20),
+	PRIMARY KEY (Id_num) /**** Indicamos cuál es la columna que funge como llave primaria (debe tener valores únicos) ****/
+);

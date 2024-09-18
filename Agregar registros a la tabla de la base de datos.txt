@@ -1,0 +1,17 @@
+INSERT INTO Datos_Personales VALUES ('Letha Bolt', 'AbrahamAcevedo@gmail.com', '2638 Riverview Pkwy', 'Wabash', '(564) 517-5025', 'M', 'Divorced');
+INSERT INTO Datos_Personales VALUES ('Vanita Kelleher', 'Jude_High169@gmail.com', NULL, 'Concord', '(684) 186-0087', 'F', 'Married');
+INSERT INTO Datos_Personales VALUES ('Marcos Abraham', 'Bauer@gmail.com', '80 White Woodfort Ln', 'Clayton', '(260) 313-6443', 'M', 'Single');
+INSERT INTO Datos_Personales VALUES ('Miyoko Mckinney', 'Alarcon@gmail.com', '925 Hope St', 'Scottdale', '(868) 864-8718', 'M', 'Married');
+INSERT INTO Datos_Personales VALUES ('Adolph Francisco', 'gndd9978@gmail.com', '3755 Red Burwood Way', 'Mount Horeb', '(451) 929-8321', 'M', 'Single');
+INSERT INTO Datos_Personales VALUES ('Oma Lawler', NULL, NULL, 'Kings Point', '(133) 683-0582', 'F', 'Single');
+INSERT INTO Datos_Personales VALUES ('Felix Alba', 'Palmer_Lofton@gmail.com', '3813 Hope St', 'Hoopeston', '(765) 713-9006', 'F', 'Widow');
+INSERT INTO Datos_Personales VALUES ('Eusebia Noland', 'Abernathy@gmail.com', '1168 Lake Circle', 'Concord', '(447) 838-0332', 'F', 'Single');
+INSERT INTO Datos_Personales VALUES ('Denisha Mcginnis', 'Adaline_Abbott@gmail.com', '74 Burwood Way', 'Brookings', '(730) 273-6683', 'F', 'Single');
+INSERT INTO Datos_Personales VALUES ('Stanford Sullivan', 'Shayne_Britton589@gmail.com', '3836 Hunting Hill Pkwy', 'Beavercreek', '(812) 252-0427', 'F', 'Married');
+INSERT INTO Datos_Personales VALUES ('Nathan Salisbury', 'mxwygtmf_ahjpwboxdy@gmail.com', '3603 Stonewood Ct', 'Dublin', '(977) 813-8110', 'M', 'Married');
+INSERT INTO Datos_Personales VALUES ('Burton Bunnell', 'Steve.A.Pape@outlook.com', '3490 Quailwood Street', 'Breese', '(826) 366-1014', 'M', 'Single');
+INSERT INTO Datos_Personales VALUES ('Adah Jameson', 'Ivan.Southern98@gmail.com', NULL, 'Bedford Heights', '(914) 159-1651', 'M', 'Single');
+INSERT INTO Datos_Personales VALUES ('Adam Geer', 'Darell_Centeno27@gmail.com', '402 Bayview Avenue', 'Aberdeen', '(961) 069-2786', 'M', 'Single');
+INSERT INTO Datos_Personales VALUES ('Freeman Selby', 'Shanta.Beaver89@outlook.com', '647 Hidden Front Blvd', 'Pleasant Prairie', '(768) 048-0640', 'F', 'Divorced');
+INSERT INTO Datos_Personales VALUES ('Laura Barger', 'GregoryMurrell@gmail.com', '3744 Woodhurst Pkwy', 'Chickasaw', '(790) 495-8216', 'F', 'Single');
+INSERT INTO Datos_Personales VALUES ('Ariel Hermann', 'rfgxqoso9811@gmail.com', '683 SW Stonewood Way', 'Brigantine', '(552) 037-7186', 'M', 'Married');

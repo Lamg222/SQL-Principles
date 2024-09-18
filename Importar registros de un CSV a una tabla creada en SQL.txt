@@ -1,0 +1,12 @@
+BULK INSERT Exportaciones /**** IMPORTAMOS los registros ****/
+
+/**** Ruta de la base que se va a importar con todo y el nombre del archivo csv****/
+FROM 'E:/SQL/Bases de datos Aprende el lenguaje SQL desde cero/3. Conceptos Básicos acerca de las Bases de Datos/3. Material/ExportacionesMexicovariospaises2018-220809-115643.csv'
+WITH
+(
+FIELDTERMINATOR = ',', /**** Caracter que determina del archivo (CSV) ****/
+ROWTERMINATOR = '\n', /**** Caracter que determina la terminación de cada registro ****/
+/**** IMPORTANTE, EL DETERMINADOR DE CAMBIO DE FILA ES "\n" no "/n" ****/
+
+FIRSTROW = 2 /**** Se especifica que tiene encabezados y cada registro empieza desde la segunda fila ****/
+)
